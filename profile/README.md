@@ -14,5 +14,5 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 ## Become a volunteer
 
 <aside>
-💜 We highly appreciate your contribution. If you want to get involved, please read [Contribution guideline]()
+💜 We highly appreciate your contribution. If you want to get involved, please read [Contribution guideline](https://github.com/open-genes/.github/wiki/Contribution-guide)
 </aside>
