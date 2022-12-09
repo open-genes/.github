@@ -13,3 +13,8 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 
 ## 🌈 Become a volunteer
 To get started, please take a few minutes to read the [Contribution guidelines](https://github.com/open-genes/.github/wiki/Contribution-guide). These guidelines will provide you with important information about how to get involved in the project.
+
+
+## Tech stack
+
+`Typescript` `Angular` `RxJS` `Yii2` `Python 3` `FastAPI` `MySQL 8` `Docker`
