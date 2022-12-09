@@ -17,4 +17,4 @@ To get started, please take a few minutes to read the [Contribution guidelines](
 
 ## Tech stack
 
-`Typescript` `Angular` `RxJS` `Yii2` `Python 3` `FastAPI` `MySQL 8` `Docker`
+`Typescript` `Angular` `RxJS` `Node` `Express.js` `Yii2` `Python 3` `FastAPI` `MySQL 8` `Docker`
