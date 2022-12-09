@@ -12,5 +12,4 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 - [Open Genes data description](https://open-genes.com/about/articles/open-genes-data-description)
 
 ## 🌈 Become a volunteer
-💜 We highly appreciate your contribution. If you want to get involved, please read [Contribution guidelines](https://github.com/open-genes/.github/wiki/Contribution-guide)
-
+To get started, please take a few minutes to read the [Contribution guidelines](https://github.com/open-genes/.github/wiki/Contribution-guide). These guidelines will provide you with important information about how to get involved in the project.
