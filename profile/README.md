@@ -11,7 +11,8 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 ## 👩‍💻 Useful resources
 - [Open Genes Wiki](https://github.com/open-genes/.github/wiki/)
 - [Open Genes infrastructure](https://github.com/open-genes/.github/wiki/Open-Genes-infrastructure)
-- [Open Genes data description](https://open-genes.com/about/articles/open-genes-data-description)
+- [Open Genes data description for scientist](https://open-genes.com/about/articles/open-genes-data-description)
+- [Integration with your applications](https://github.com/open-genes/.github/wiki/Integration-with-your-applications)
 
 ## 🌈 Become a volunteer
 To get started, please take a few minutes to read the [Contribution guidelines](https://github.com/open-genes/.github/wiki/Contributing-guide). These guidelines will provide you with important information about how to get involved in the project.
