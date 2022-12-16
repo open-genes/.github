@@ -15,7 +15,7 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 - [Integration with your applications](https://github.com/open-genes/.github/wiki/Integration-with-your-applications)
 
 ## 🌈 Become a volunteer
-To get started, please take a few minutes to read the [Contribution guidelines](https://github.com/open-genes/.github/wiki/Contributing-guide). These guidelines will provide you with important information about how to get involved in the project.
+To get started, please take a few minutes to read the [Contributing guidelines](https://github.com/open-genes/.github/wiki/Contributing-guide). These guidelines will provide you with important information about how to get involved in the project.
 
 
 ## Tech stack
