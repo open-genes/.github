@@ -21,6 +21,9 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 - [Open Genes data description for scientists](https://open-genes.com/about/articles/open-genes-data-description)
 - [Difference between Open Genes and the other biological databases](https://open-genes.com/about/articles/difference-between-open-genes-and-the-other-databases)
 
+## 💬 Q&A
+Feel free to ask any quesions in [Discussions](https://github.com/open-genes/.github/discussions/1)
+
 ## 🌈 Become a volunteer
 To get started, please take a few minutes to read the [Contributing guidelines](https://github.com/open-genes/.github/wiki/Contributing-guide). These guidelines will provide you with important information about how to get involved in the project.
 
