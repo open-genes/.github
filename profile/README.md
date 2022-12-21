@@ -1,6 +1,6 @@
 # Open Genes
 
-[open-genes.org](https://open-genes.org/)
+[Official website](https://open-genes.org/) | [Donate](https://github.com/open-genes/.github/wiki/Donate) | [Wiki](https://github.com/open-genes/.github/wiki/)
 
 Open Genes is a non-commercial public service for biologists — a biological database of human genes associated with aging and lifespan. 
 Open Genes provides open and structured data collected for genes associated with aging. We give researchers in the field of aging genetics 
@@ -11,12 +11,12 @@ that cannot be found in other databases. [Read more](https://open-genes.com/abou
 
 ## 📚 Recommended articles
 
-### Read on our [wiki](https://github.com/open-genes/.github/wiki/)
-
+### Read on our wiki
+- [Our mission](https://github.com/open-genes/.github/wiki/About-Open-Genes)
 - [Integration with your applications](https://github.com/open-genes/.github/wiki/Integration-with-your-applications)
 - [Open Genes infrastructure](https://github.com/open-genes/.github/wiki/Open-Genes-infrastructure)
 
-### Read on [website](https://open-genes.org/about)
+### Read on website
 - [What is Open Genes and what is its main feature](https://open-genes.com/about/articles/what-is-open-genes)
 - [Open Genes data description for scientists](https://open-genes.com/about/articles/open-genes-data-description)
 - [Difference between Open Genes and the other biological databases](https://open-genes.com/about/articles/difference-between-open-genes-and-the-other-databases)
