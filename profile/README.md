@@ -2,6 +2,12 @@
 
 [Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) | [Preprint](https://www.researchsquare.com/article/rs-2306130/v1) | [💜 Donate](https://github.com/open-genes/.github/wiki/Donate) 
 
+## Contrubutors
+
+Not all contributors commit on GitHub. We have many biologists, data analysts and other great people participating in the project. We added Contributors page to Open Genes website to mention them https://open-genes.com/contributors
+
+## About
+
 Open Genes is a non-commercial public service for biologists — a biological database of human genes associated with aging and lifespan. 
 Open Genes provides open and structured data collected for genes associated with aging. We give researchers in the field of aging genetics 
 efficient tools for analyzing gene functions, evolution, the influence of gene activity on lifespan, age-related changes in gene expression, 
