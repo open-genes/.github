@@ -2,9 +2,9 @@
 
 [Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) | [Preprint](https://www.researchsquare.com/article/rs-2306130/v1) | [💜 Donate](https://github.com/open-genes/.github/wiki/Donate) 
 
-## Contrubutors
+## ✨ Contrubutors
 
-Not all contributors commit on GitHub. We have many biologists, data analysts and other great people participating in the project. We added Contributors page to Open Genes website to mention them https://open-genes.com/contributors
+Open Genes has many contributors who are biologists, data analysts, and people in other roles essential for the project that are not necessarily related to GitHub. In order to recognize their hard work, we added a Contributors page on Open Genes website to show our appreciation https://open-genes.com/contributors
 
 ## About
 
