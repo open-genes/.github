@@ -1,4 +1,4 @@
-# Open Genes
+# Open Genes — a comprehensive database of human genes associated with aging and longevity
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8218329.svg)](10.5281/zenodo.8218329)
 
