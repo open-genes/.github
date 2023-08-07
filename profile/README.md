@@ -1,6 +1,6 @@
 # Open Genes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8218199.svg)](https://doi.org/10.5281/zenodo.8218199)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8218329.svg)](10.5281/zenodo.8218329)
 
 [Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) | [Preprint](https://www.researchsquare.com/article/rs-2306130/v1) | [💜 Donate](https://github.com/open-genes/.github/wiki/Donate) 
 
