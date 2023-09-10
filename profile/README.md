@@ -1,8 +1,8 @@
 # Open Genes — a comprehensive database of human genes associated with aging and longevity
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8218329.svg)](10.5281/zenodo.8218329)
+**[https://doi.org/10.1093/nar/gkad712](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad712/7259277?login=false)**
 
-[Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) | [Preprint](https://www.researchsquare.com/article/rs-2306130/v4) | [💜 Donate](https://github.com/open-genes/.github/wiki/Donate) 
+[Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) | [💜 Donate](https://github.com/open-genes/.github/wiki/Donate) 
 
 ## ✨ Contrubutors
 
