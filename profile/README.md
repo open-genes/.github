@@ -2,7 +2,11 @@
 
 **[https://doi.org/10.1093/nar/gkad712](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad712/7259277?login=false)**
 
-[Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) | [💜 Donate](https://github.com/open-genes/.github/wiki/Donate) 
+[Official website](https://open-genes.org/) | [Wiki](https://github.com/open-genes/.github/wiki/) 
+
+## Support the Project
+
+[💜 Donate](https://github.com/open-genes/.github/wiki/Donate) | [:octocat: Become a sponsor](https://github.com/sponsors/open-genes)
 
 ## ✨ Contrubutors
 
