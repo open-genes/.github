@@ -12,6 +12,15 @@
 
 Open Genes has many contributors who are biologists, data analysts, and people in other roles essential for the project that are not necessarily related to GitHub. In order to recognize their hard work, we added a Contributors page on Open Genes website to show our appreciation https://open-genes.com/contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## About
 
 Open Genes is a non-commercial public service for biologists — a biological database of human genes associated with aging and lifespan. 
