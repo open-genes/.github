@@ -6,7 +6,7 @@
 
 ## Support the Project
 
-[💜 Donate](https://github.com/open-genes/.github/wiki/Donate) | [:octocat: Become a sponsor](https://github.com/sponsors/open-genes)
+[💜 Donate](https://open-genes.com/about/articles/donate-us) | [:octocat: Become our sponsor on GitHub](https://github.com/sponsors/open-genes)
 
 ## ✨ Contrubutors
 
